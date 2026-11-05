@@ -1,0 +1,34 @@
+3:"$Sreact.fragment"
+4:"/ubis-aid-preview/_next/static/chunks/3qfy96eoyh-ek.js"
+5:I[39756,["$4"],"default"]
+6:I[37457,["$4"],"default"]
+d:"/ubis-aid-preview/_next/static/chunks/2ikry9ptqgehg.js"
+e:"/ubis-aid-preview/_next/static/chunks/2itkk3-4ieqmf.js"
+f:"/ubis-aid-preview/_next/static/chunks/1sef1cb5p1i8z.js"
+10:"/ubis-aid-preview/_next/static/chunks/42_tcxh9a3s60.js"
+11:I[5014,["$d","$e","$f","$10"],"default"]
+12:I[22016,["$d","$e","$f","$10"],""]
+13:I[97367,["$4"],"OutletBoundary"]
+14:"$Sreact.suspense"
+17:"ViewportBoundary"
+18:I[97367,["$4"],"$17"]
+19:"MetadataBoundary"
+1a:I[97367,["$4"],"$19"]
+1b:I[27201,["$4"],"IconMark"]
+8:X
+8:C
+9:X
+c:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$3","c",{"children":[["$","div",null,{"className":"mx-auto w-full px-4 sm:px-6 max-w-3xl py-20 text-center","children":[["$","span",null,{"className":"mx-auto grid size-20 place-items-center rounded-full bg-peach","children":["$","$L11",null,{"icon":{"name":"heart-handshake","size":24,"node":[["path",{"d":"M19.414 14.414C21 12.828 22 11.5 22 9.5a5.5 5.5 0 0 0-9.591-3.676.6.6 0 0 1-.818.001A5.5 5.5 0 0 0 2 9.5c0 2.3 1.5 4 3 5.5l5.535 5.362a2 2 0 0 0 2.879.052 2.12 2.12 0 0 0-.004-3 2.124 2.124 0 1 0 3-3 2.124 2.124 0 0 0 3.004 0 2 2 0 0 0 0-2.828l-1.881-1.882a2.41 2.41 0 0 0-3.409 0l-1.71 1.71a2 2 0 0 1-2.828 0 2 2 0 0 1 0-2.828l2.823-2.762","key":"17lmqv"}]]},"className":"size-10 text-primary","aria-hidden":"true"}]}],["$","h1",null,{"className":"mt-8 text-4xl font-extrabold sm:text-6xl","children":"Thank you for your gift!"}],["$","p",null,{"className":"mt-5 text-xl","children":"You've just made it possible for a young person to have someone to talk to. A receipt is on its way to your inbox."}],["$","p",null,{"className":"mt-3 text-lg text-muted-foreground","children":"Tell someone you know that we exist. It can mean everything."}],["$","div",null,{"className":"mt-10 flex flex-col justify-center gap-3 sm:flex-row","children":[["$","$L12",null,{"className":"group/button inline-flex shrink-0 items-center justify-center gap-2 rounded-full border border-transparent font-semibold whitespace-nowrap transition-[background-color,color,box-shadow,transform] duration-200 outline-none select-none focus-visible:outline-3 focus-visible:outline-offset-3 focus-visible:outline-ring active:translate-y-px disabled:pointer-events-none disabled:opacity-50 aria-invalid:border-destructive [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-5 bg-primary text-primary-foreground shadow-sm hover:bg-primary-hover min-h-13 px-7 text-lg","href":"/en","children":"Go to the home page"}],["$","$L12",null,{"className":"group/button inline-flex shrink-0 items-center justify-center gap-2 rounded-full border border-transparent font-semibold whitespace-nowrap transition-[background-color,color,box-shadow,transform] duration-200 outline-none select-none focus-visible:outline-3 focus-visible:outline-offset-3 focus-visible:outline-ring active:translate-y-px disabled:pointer-events-none disabled:opacity-50 aria-invalid:border-destructive [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-5 bg-white text-ink shadow-sm ring-1 ring-border hover:bg-muted min-h-13 px-7 text-lg","href":"/en/berattelser","children":"Read stories"}]]}]]}],null,["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]]}],"p":"$@16","v":null,"s":"$9"}}]]
+a:[["children",{"s":"tack","h":96,"d":{"r":["$","$3","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@b","v":"$8","s":"$9"},"c":"$Qc"}]]
+2:[["children",{"s":"stod-oss","h":64,"d":{"r":["$","$3","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+1:[["children",{"s":{"n":"locale","t":"d","k":"en","s":[]},"h":65584,"c":"$Q2"}]]
+0:{"t":{"t":{"s":"","h":131152,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$L18",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#fbf7f0"}]]}],["$","$L1a",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$14",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Thank you for your gift! | Ubis AID"}],["$","meta","1",{"name":"description","content":"You've just made it possible for a young person to have someone to talk to. A receipt is on its way to your inbox."}],["$","meta","2",{"name":"application-name","content":"Ubis AID"}],["$","meta","3",{"name":"robots","content":"noindex, nofollow"}],["$","link","4",{"rel":"canonical","href":"https://ubisaid.github.io/ubis-aid-preview/en/stod-oss/tack/"}],["$","link","5",{"rel":"alternate","hrefLang":"sv","href":"https://ubisaid.github.io/ubis-aid-preview/sv/stod-oss/tack/"}],["$","link","6",{"rel":"alternate","hrefLang":"en","href":"https://ubisaid.github.io/ubis-aid-preview/en/stod-oss/tack/"}],["$","link","7",{"rel":"alternate","hrefLang":"x-default","href":"https://ubisaid.github.io/ubis-aid-preview/sv/stod-oss/tack/"}],["$","meta","8",{"name":"format-detection","content":"telephone=no"}],["$","meta","9",{"property":"og:title","content":"Thank you for your gift!"}],["$","meta","10",{"property":"og:description","content":"You've just made it possible for a young person to have someone to talk to. A receipt is on its way to your inbox."}],["$","meta","11",{"property":"og:url","content":"https://ubisaid.github.io/ubis-aid-preview/en/stod-oss/tack/"}],["$","meta","12",{"property":"og:site_name","content":"Ubis AID"}],["$","meta","13",{"property":"og:locale","content":"en_GB"}],["$","meta","14",{"property":"og:type","content":"website"}],["$","meta","15",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","16",{"name":"twitter:title","content":"Thank you for your gift!"}],["$","meta","17",{"name":"twitter:description","content":"You've just made it possible for a young person to have someone to talk to. A receipt is on its way to your inbox."}],["$","link","18",{"rel":"icon","href":"/ubis-aid-preview/brand/icon-512.png"}],["$","link","19",{"rel":"apple-touch-icon","href":"/ubis-aid-preview/brand/apple-icon.png"}],["$","$L1b","20",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1c","v":null,"s":"$9"}},"a":"$@1d","u":"$@1e","b":"-lq3bZ1fsawHljUMwnPHo"}
+15:null
+1e:true
+9:300
+9:C
+1d:0
+b:"$undefined"
+7:"$undefined"
+1c:"$undefined"
+16:"$undefined"
