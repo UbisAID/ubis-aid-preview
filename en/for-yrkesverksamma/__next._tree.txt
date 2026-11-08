@@ -1,4 +1,4 @@
-:HL["/ubis-aid-preview/_next/static/chunks/1avrr1xnzia1x.css","style"]
+:HL["/ubis-aid-preview/_next/static/chunks/3toh08v-je5cd.css","style"]
 :HL["/ubis-aid-preview/_next/static/media/8056169c9d560660-s.p.41rroleoq1br7.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/ubis-aid-preview/_next/static/media/cb4b92673aedbbad-s.p.0-95eo-012xnf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/ubis-aid-preview/_next/static/media/d902bc2bfdd0a4cb-s.p.1g73gv09-xcb6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -6,4 +6,4 @@
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":"for-yrkesverksamma","h":64,"c":"$Q3"}]]
 1:[["children",{"s":{"n":"locale","t":"d","k":"en","s":[]},"h":65584,"c":"$Q2"}]]
-0:{"b":"-lq3bZ1fsawHljUMwnPHo","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"axi7M8Xd_lv1c0cTKOY7T","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
